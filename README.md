@@ -4,7 +4,7 @@
 $ git clone https://github.com/DroneZzZko/url_shortener.git
 
 # Go into the repository
-$ cd url_shortener
+$ cd fastest-url-shortener
 
 # Run the app
 $ docker-compose up -d
