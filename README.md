@@ -1,7 +1,7 @@
 ## How To Use
 ```bash
 # Clone this repository
-$ git clone https://github.com/DroneZzZko/url_shortener.git
+$ git clone https://github.com/DroneZzZko/fastest-url-shortener.git
 
 # Go into the repository
 $ cd fastest-url-shortener
